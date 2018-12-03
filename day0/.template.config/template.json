@@ -1,0 +1,10 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Jean-Lou PIERME",
+  "classifications": ["adventofcode", "Console"],
+  "identity": "jlou.adventofcode2018",
+  "name": "Template Advent of Code",
+  "shortName": "advent",
+  "sourceName": "day0",
+  "preferNameDirectory": true
+}
