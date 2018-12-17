@@ -1,0 +1,1 @@
+max coord: (33, 45 with sum 29)
